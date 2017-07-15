@@ -1,8 +1,8 @@
 # Basic
-title: Vno Jekyll
-subtitle: A blog-orientation theme for Jekyll
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
+title: 艺搜天下
+subtitle: 又一个专注于markdown写作的博客
+welcome_message: <a href="http://www.elesos.com" target="_blank">欢迎访问艺搜天下</a>
+description: 专心写作吧
 creator: <a href="http://onev.cat">@onevcat</a>
 
 url: "http://vno.onevcat.com"
@@ -17,12 +17,13 @@ cover_color: red
 
 # The blog button should not be removed.
 blog_button:
-    title: Blog
-    description: Visit blog
+    title: 博客
+    description: 访问博客
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    - {title: 关于, description: 了解更多, url: 'http://www.elesos.com/'}
+    #- {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
@@ -37,11 +38,11 @@ comment:
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
+    weibo: elesos
+    github: elesos
+    twitter: hnrayer
     gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    mail: admin#elesos.com
 
 # Google Analytics
 ga:

@@ -33,7 +33,7 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    disqus: wwwelesoscom
+    disqus: elesos-github
     # duoshuo: 
     
 # Social

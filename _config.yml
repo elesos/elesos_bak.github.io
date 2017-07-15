@@ -33,7 +33,7 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    disqus: vno-jekyll
+    disqus: wwwelesoscom
     # duoshuo: 
     
 # Social
@@ -42,7 +42,7 @@ social:
     github: elesos
     twitter: hnrayer
     gplus: 109489739602393495945
-    mail: admin#elesos.com
+    mail: admin@elesos.com
 
 # Google Analytics
 ga:

@@ -4,8 +4,6 @@ title: Markdown编辑器调研1：MarkdownPad
 date: 2017-07-14 11:32:24.000000000 +09:00
 ---
 
-## Welcome to MarkdownPad 2
-
 **MarkdownPad** is a full-featured Markdown editor for Windows.
 
 ### Built exclusively for Markdown 
